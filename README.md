@@ -1,16 +1,29 @@
-## Hi there 👋
+<p>Olá, eu sou Kamilla. Bem vindo(a) ao meu GitHub!<br>Sou estudante de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB). Atualmente, estou me aprofundando em desenvolvimento com Python e Java. Além disso, estou explorando mais sobre Next.js e JavaScript para expandir meu conhecimento.
+.<br>
+    <br>
+        <br>
+    <h3>Social Media</h3>
+    </a>
+    <a href="kamillabitencourt18@.com">
+        <img src="https://img.shields.io/badge/Email-312E38?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    </a>
+    <a href="https://www.instagram.com/bitencourtkamilla/">
+        <img src="https://img.shields.io/badge/Instagram-312E38?style=flat-square&logo=instagram" alt="instagram">
+    </a>
+</p>
 
-<!--
-**Kamilla31788/Kamilla31788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/javascript-312E38?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/python-312E38?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/java-312E38?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-312E38?style=for-the-badge&logo=c%2B%2B)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamilla31788&layout=compact&theme=tokyonight"/>
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamilla31788&layout=donut&theme=tokyonight" height="180em"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamilla31788&layout=donut&theme=tokyonight" height="180em"/>
+
+
+
