@@ -1,7 +1,5 @@
 <p>Olá, eu sou Kamilla. Bem vindo(a) ao meu GitHub!<br>Sou estudante de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB). Atualmente, estou me aprofundando em desenvolvimento com Python e Java. Além disso, estou explorando mais sobre Next.js e JavaScript para expandir meu conhecimento.
-.<br>
-    <br>
-        <br>
+<br>
     <h3>Social Media</h3>
     </a>
     <a href="kamillabitencourt18@.com">
