@@ -2,7 +2,7 @@
 <br>
     <h3>Social Media</h3>
     </a>
-    <a href="kamillabitencourt18@.com">
+    <a href="kamillabitencourt18@gmail.com">
         <img src="https://img.shields.io/badge/Email-312E38?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
     <a href="https://www.instagram.com/bitencourtkamilla/">
