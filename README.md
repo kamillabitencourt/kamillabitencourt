@@ -23,5 +23,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamilla31788&layout=donut&theme=tokyonight" height="180em"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamilla31788&layout=donut&theme=tokyonight" height="180em"/>
 
+![Snake animation](https://github.com/kamillabitencourt/kamillabitencourt/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
