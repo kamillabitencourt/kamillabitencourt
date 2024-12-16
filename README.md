@@ -17,11 +17,9 @@
 ![Java](https://img.shields.io/badge/java-312E38?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-312E38?style=for-the-badge&logo=c%2B%2B)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamilla31788&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillabitencourt&layout=compact&theme=tokyonight"/>
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamilla31788&layout=donut&theme=tokyonight" height="180em"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamilla31788&layout=donut&theme=tokyonight" height="180em"/>
 
 
 
