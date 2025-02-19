@@ -1,4 +1,8 @@
-<p>Olá, eu sou Kamilla. Bem vindo(a) ao meu GitHub!<br>Sou estudante de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB). Atualmente, estou me aprofundando em desenvolvimento com Python e Java. Além disso, estou explorando mais sobre Next.js e JavaScript para expandir meu conhecimento.
+<p>Olá, eu sou Kamilla!
+
+Bem-vindo(a) ao meu GitHub! Sou estudante de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB). Atualmente, me especializo em desenvolvimento fullstack, combinando tecnologias modernas para criar soluções eficientes e escaláveis.
+
+Atuo principalmente com Python e Java no backend, enquanto exploro Next.js e JavaScript no frontend para construir aplicações dinâmicas e responsivas. Meu foco está na melhoria contínua da minha stack, sempre buscando boas práticas de desenvolvimento e experiências otimizadas para os usuários.
 <br>
     <h3>Social Media</h3>
     </a>
