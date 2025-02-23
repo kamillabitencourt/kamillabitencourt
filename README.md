@@ -8,7 +8,6 @@ Atuo principalmente com Python e Java no backend, enquanto exploro Next.js e Jav
 
 Acesse meu portfólio para conhecer mais sobre meus projetos e experiências:  
 ➡️ [Clique aqui para acessar](https://kamillabitencourt.github.io/curriculo-com-Css/) 
-
 <br>
     <h3>Social Media</h3>
     </a>
