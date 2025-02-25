@@ -19,12 +19,15 @@ Acesse meu portfólio para conhecer mais sobre meus projetos e experiências:
     </a>
 </p>
 
-### Languages
+### Linguagens 
 
 ![JavaScript](https://img.shields.io/badge/javascript-312E38?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-312E38?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-312E38?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-312E38?style=for-the-badge&logo=c%2B%2B)
+![HTML](https://img.shields.io/badge/HTML-312E38?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-312E38?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-312E38?style=for-the-badge&logo=javascript)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillabitencourt&layout=compact&theme=tokyonight"/>
 
