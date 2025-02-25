@@ -21,7 +21,6 @@ Acesse meu portfólio para conhecer mais sobre meus projetos e experiências:
 
 ### Linguagens 
 
-![JavaScript](https://img.shields.io/badge/javascript-312E38?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-312E38?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-312E38?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-312E38?style=for-the-badge&logo=c%2B%2B)
